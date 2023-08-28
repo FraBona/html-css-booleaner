@@ -1,6 +1,5 @@
 *{
   margin: 0;
-  padding: 0;
 }
 
 header{
@@ -16,3 +15,53 @@ header{
   margin-top: 140px;
 }
 
+main{
+  padding-top: 15px;
+  padding-left: 5px;
+}
+
+
+#titolo{
+  font-size: 300%;
+  margin-top: 10px;
+}
+
+#autore{
+  color: aqua;
+}
+
+.autore-anno{
+  color: grey;
+}
+
+.foto-tim{
+  margin-top: 10px;
+}
+
+.section{
+  margin-top: 10px;
+}
+
+table{
+  border-spacing:0;
+  border-collapse: collapses;
+  text-align: left;
+  
+}
+
+thead{
+  background-color: #3f87a6;
+  color: white;
+}
+
+tbody{
+  background-color: #84a2af;
+}
+
+#sfondo-bianco{
+  background-color: white;
+}
+
+.scritta-evidenziata{
+  background: #ffd500;;
+}
