@@ -2,3 +2,17 @@
   margin: 0;
   padding: 0;
 }
+
+header{
+  background: url("../img/pattern.png");
+  background-color: cadetblue;
+  background-repeat: repeat;
+  height: 200px;
+}
+
+#logo{
+  width: 200px;
+  height: 50px;
+  margin-top: 140px;
+}
+
